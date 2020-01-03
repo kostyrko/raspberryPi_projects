@@ -1,5 +1,6 @@
 ''' simple  script testing possible image effects
-for Raspberry Pi camera module, saves filtered images as jpg'''
+for Raspberry Pi camera module, saves filtered images as jpg
+after https://projects.raspberrypi.org/en/projects/getting-started-with-picamera'''
 
 from picamera import PiCamera
 from time import sleep
